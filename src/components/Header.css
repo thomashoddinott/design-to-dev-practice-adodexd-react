@@ -1,0 +1,32 @@
+/* factor out repeating css - font family? */
+
+div.logo {
+  position: absolute;
+  top: 68px;
+  left: 130px;
+  width: 170px;
+  height: 33px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 26px;
+}
+
+div.button-position {
+  position: absolute;
+  top: 68px;
+  left: 1127px;
+  /* width: 143px;
+  height: 47px; */
+}
+
+button {
+  background-color: #299BA3;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  border-radius: 30px;
+}

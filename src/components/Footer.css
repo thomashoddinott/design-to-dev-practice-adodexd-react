@@ -1,0 +1,17 @@
+div.page-no-container {
+  position: absolute;
+  top: 637px;
+  left: 130px;
+  width: 201px;
+  height: 156px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+span.current-page {
+  font-size: 93px
+}
+
+span.total-pages {
+  font-size: 48px;
+  opacity: 0.5
+}

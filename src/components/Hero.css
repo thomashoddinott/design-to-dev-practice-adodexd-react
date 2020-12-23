@@ -1,0 +1,17 @@
+@font-face {
+  font-family: great-wishes;
+  src: url(../fonts/great-wishes.otf);
+}
+
+div.centered-hero {
+  font-family: great-wishes;
+  font-size: 148px;
+
+  /* margin: auto; */
+
+  position: absolute;
+  top: 254.5px;
+  left: 480px;
+  width: 170px;
+  height: 33px;
+}
