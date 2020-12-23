@@ -15,3 +15,15 @@ span.total-pages {
   font-size: 48px;
   opacity: 0.5
 }
+
+div.social-icons {
+  position: absolute;
+  top: 692px;
+  left: 1067px;
+  width: 207px;
+  height: 46px;
+}
+
+img {
+  padding-left: 20px;
+}

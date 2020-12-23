@@ -3,8 +3,8 @@ import './Hero.css'
 
 function Hero() {
   return (
-    <div className='centered-hero'>
-      Travel
+      <div className='centered-hero'>
+        Travel
     </div>
   )
 }
