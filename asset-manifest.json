@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/design-to-dev-practice-adodexd-react/static/css/main.f1fa2763.chunk.css",
+    "main.css": "/design-to-dev-practice-adodexd-react/static/css/main.43ec9909.chunk.css",
     "main.js": "/design-to-dev-practice-adodexd-react/static/js/main.f43db640.chunk.js",
     "main.js.map": "/design-to-dev-practice-adodexd-react/static/js/main.f43db640.chunk.js.map",
     "runtime-main.js": "/design-to-dev-practice-adodexd-react/static/js/runtime-main.bc550ffb.js",
@@ -10,7 +10,7 @@
     "static/js/3.707c729a.chunk.js": "/design-to-dev-practice-adodexd-react/static/js/3.707c729a.chunk.js",
     "static/js/3.707c729a.chunk.js.map": "/design-to-dev-practice-adodexd-react/static/js/3.707c729a.chunk.js.map",
     "index.html": "/design-to-dev-practice-adodexd-react/index.html",
-    "static/css/main.f1fa2763.chunk.css.map": "/design-to-dev-practice-adodexd-react/static/css/main.f1fa2763.chunk.css.map",
+    "static/css/main.43ec9909.chunk.css.map": "/design-to-dev-practice-adodexd-react/static/css/main.43ec9909.chunk.css.map",
     "static/js/2.8517d07a.chunk.js.LICENSE.txt": "/design-to-dev-practice-adodexd-react/static/js/2.8517d07a.chunk.js.LICENSE.txt",
     "static/media/003-linkedin-logo.c362de69.svg": "/design-to-dev-practice-adodexd-react/static/media/003-linkedin-logo.c362de69.svg",
     "static/media/004-facebook-app-logo.3e50ef97.svg": "/design-to-dev-practice-adodexd-react/static/media/004-facebook-app-logo.3e50ef97.svg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.bc550ffb.js",
     "static/js/2.8517d07a.chunk.js",
-    "static/css/main.f1fa2763.chunk.css",
+    "static/css/main.43ec9909.chunk.css",
     "static/js/main.f43db640.chunk.js"
   ]
 }
