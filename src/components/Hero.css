@@ -5,11 +5,10 @@
 
 div.centered-hero {
   font-family: great-wishes;
-  font-size: 148px;
+  font-size: 130px;
   color: white;
 
-  /* margin: auto; */
-
+  /* perfectly centered */
   margin: 0;
   position: absolute;
   top: 50%;

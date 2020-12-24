@@ -7,10 +7,12 @@ import TwitterLogo from '../icons/005-twitter.svg'
 function Header() {
   return (
     <>
+      {/* //this is meant to be a page counter - i.e. imagine we're on page 3 of a site */}
       <div className='page-no-container'>
         <span className='current-page'>03</span>
         <span className='total-pages'>/07</span>
       </div>
+
       <div className="social-icons">
         <a href="https://www.linkedin.com/">
         <img 

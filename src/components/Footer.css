@@ -2,8 +2,6 @@ div.page-no-container {
   position: absolute;
   top: 90%;
   left: 15%;
-  width: 201px;
-  height: 156px;
   font-family: 'Montserrat', sans-serif;
   color: white;
 }
@@ -21,8 +19,6 @@ div.social-icons {
   position: absolute;
   top: 95%;
   right: 12%;
-  width: 207px;
-  height: 46px;
 }
 
 img {

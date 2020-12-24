@@ -1,11 +1,7 @@
-/* factor out repeating css - font family? */
-
 div.logo {
   position: absolute;
   top: 10%;
   left: 15%;
-  width: 170px;
-  height: 33px;
   font-family: 'Montserrat', sans-serif;
   font-size: 26px;
   color: white;
@@ -15,8 +11,6 @@ div.button-position {
   position: absolute;
   top: 10%;
   right: 15%;
-  /* width: 143px;
-  height: 47px; */
 }
 
 button {
