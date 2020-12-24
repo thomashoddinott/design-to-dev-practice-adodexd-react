@@ -5,6 +5,7 @@ div.page-no-container {
   width: 201px;
   height: 156px;
   font-family: 'Montserrat', sans-serif;
+  color: white;
 }
 
 span.current-page {
@@ -26,4 +27,8 @@ div.social-icons {
 
 img {
   padding-left: 20px;
+}
+
+svg {
+  fill: white;
 }

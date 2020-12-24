@@ -14,7 +14,7 @@ function Header() {
       <div className="social-icons">
         <img 
           src={LinkedInLogo} 
-          alt="LinkedInLogo" 
+          alt="LinkedInLogo"
         />
         <img 
           src={FacebookLogo} 
