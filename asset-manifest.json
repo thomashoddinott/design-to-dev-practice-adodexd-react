@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/thomashoddinott/design-to-dev-practice-adodexd-react/static/css/main.6a020cea.chunk.css",
-    "main.js": "/thomashoddinott/design-to-dev-practice-adodexd-react/static/js/main.f43db640.chunk.js",
-    "main.js.map": "/thomashoddinott/design-to-dev-practice-adodexd-react/static/js/main.f43db640.chunk.js.map",
-    "runtime-main.js": "/thomashoddinott/design-to-dev-practice-adodexd-react/static/js/runtime-main.feb83688.js",
-    "runtime-main.js.map": "/thomashoddinott/design-to-dev-practice-adodexd-react/static/js/runtime-main.feb83688.js.map",
-    "static/js/2.8517d07a.chunk.js": "/thomashoddinott/design-to-dev-practice-adodexd-react/static/js/2.8517d07a.chunk.js",
-    "static/js/2.8517d07a.chunk.js.map": "/thomashoddinott/design-to-dev-practice-adodexd-react/static/js/2.8517d07a.chunk.js.map",
-    "static/js/3.707c729a.chunk.js": "/thomashoddinott/design-to-dev-practice-adodexd-react/static/js/3.707c729a.chunk.js",
-    "static/js/3.707c729a.chunk.js.map": "/thomashoddinott/design-to-dev-practice-adodexd-react/static/js/3.707c729a.chunk.js.map",
-    "index.html": "/thomashoddinott/design-to-dev-practice-adodexd-react/index.html",
-    "static/css/main.6a020cea.chunk.css.map": "/thomashoddinott/design-to-dev-practice-adodexd-react/static/css/main.6a020cea.chunk.css.map",
-    "static/js/2.8517d07a.chunk.js.LICENSE.txt": "/thomashoddinott/design-to-dev-practice-adodexd-react/static/js/2.8517d07a.chunk.js.LICENSE.txt",
-    "static/media/003-linkedin-logo.c362de69.svg": "/thomashoddinott/design-to-dev-practice-adodexd-react/static/media/003-linkedin-logo.c362de69.svg",
-    "static/media/004-facebook-app-logo.3e50ef97.svg": "/thomashoddinott/design-to-dev-practice-adodexd-react/static/media/004-facebook-app-logo.3e50ef97.svg",
-    "static/media/005-twitter.8925e502.svg": "/thomashoddinott/design-to-dev-practice-adodexd-react/static/media/005-twitter.8925e502.svg",
-    "static/media/index.css": "/thomashoddinott/design-to-dev-practice-adodexd-react/static/media/bg.e22245f1.jpg",
-    "static/media/Hero.css": "/thomashoddinott/design-to-dev-practice-adodexd-react/static/media/great-wishes.8de13789.otf"
+    "main.css": "/design-to-dev-practice-adodexd-react/static/css/main.f1fa2763.chunk.css",
+    "main.js": "/design-to-dev-practice-adodexd-react/static/js/main.f43db640.chunk.js",
+    "main.js.map": "/design-to-dev-practice-adodexd-react/static/js/main.f43db640.chunk.js.map",
+    "runtime-main.js": "/design-to-dev-practice-adodexd-react/static/js/runtime-main.bc550ffb.js",
+    "runtime-main.js.map": "/design-to-dev-practice-adodexd-react/static/js/runtime-main.bc550ffb.js.map",
+    "static/js/2.8517d07a.chunk.js": "/design-to-dev-practice-adodexd-react/static/js/2.8517d07a.chunk.js",
+    "static/js/2.8517d07a.chunk.js.map": "/design-to-dev-practice-adodexd-react/static/js/2.8517d07a.chunk.js.map",
+    "static/js/3.707c729a.chunk.js": "/design-to-dev-practice-adodexd-react/static/js/3.707c729a.chunk.js",
+    "static/js/3.707c729a.chunk.js.map": "/design-to-dev-practice-adodexd-react/static/js/3.707c729a.chunk.js.map",
+    "index.html": "/design-to-dev-practice-adodexd-react/index.html",
+    "static/css/main.f1fa2763.chunk.css.map": "/design-to-dev-practice-adodexd-react/static/css/main.f1fa2763.chunk.css.map",
+    "static/js/2.8517d07a.chunk.js.LICENSE.txt": "/design-to-dev-practice-adodexd-react/static/js/2.8517d07a.chunk.js.LICENSE.txt",
+    "static/media/003-linkedin-logo.c362de69.svg": "/design-to-dev-practice-adodexd-react/static/media/003-linkedin-logo.c362de69.svg",
+    "static/media/004-facebook-app-logo.3e50ef97.svg": "/design-to-dev-practice-adodexd-react/static/media/004-facebook-app-logo.3e50ef97.svg",
+    "static/media/005-twitter.8925e502.svg": "/design-to-dev-practice-adodexd-react/static/media/005-twitter.8925e502.svg",
+    "static/media/index.css": "/design-to-dev-practice-adodexd-react/static/media/bg.e22245f1.jpg",
+    "static/media/Hero.css": "/design-to-dev-practice-adodexd-react/static/media/great-wishes.8de13789.otf"
   },
   "entrypoints": [
-    "static/js/runtime-main.feb83688.js",
+    "static/js/runtime-main.bc550ffb.js",
     "static/js/2.8517d07a.chunk.js",
-    "static/css/main.6a020cea.chunk.css",
+    "static/css/main.f1fa2763.chunk.css",
     "static/js/main.f43db640.chunk.js"
   ]
 }
