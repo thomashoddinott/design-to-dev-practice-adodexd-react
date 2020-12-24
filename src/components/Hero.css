@@ -10,9 +10,10 @@ div.centered-hero {
 
   /* margin: auto; */
 
+  margin: 0;
   position: absolute;
-  top: 254.5px;
-  left: 480px;
-  width: 170px;
-  height: 33px;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }

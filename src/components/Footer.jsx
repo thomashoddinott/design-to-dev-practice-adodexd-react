@@ -12,18 +12,24 @@ function Header() {
         <span className='total-pages'>/07</span>
       </div>
       <div className="social-icons">
+        <a href="https://www.linkedin.com/">
         <img 
           src={LinkedInLogo} 
           alt="LinkedInLogo"
         />
+        </a>
+        <a href="https://www.facebook.com/">
         <img 
           src={FacebookLogo} 
           alt="FacebookLogo" 
         />
+        </a>
+        <a href="https://www.twitter.com/">
         <img 
           src={TwitterLogo} 
           alt="TwitterLogo" 
         />
+        </a>
     </div>
     </>
   )
